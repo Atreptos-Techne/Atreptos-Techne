@@ -26,9 +26,9 @@ type family as its visual backbone.
 | **Atreptos** | Brand system, landing site and identity assets | HTML · CSS · JavaScript |
 | **Lipsis** | Media downloader for Windows | WinUI 3 · .NET 8 · C# |
 | **Oiax** | Remote control for LG webOS televisions | WinUI 3 · .NET 10 · C# |
-| **CHARTIS** | Logistics and route-planning workspace | Python · JavaScript |
-| **Ἄτρεπτος Γραφή** | Proprietary type family and release pipeline | Python · fontTools · UFO |
-| **Frame Performance Analyzer** | GPU benchmark analysis for Windows ([Microsoft Store](https://apps.microsoft.com/detail/9P49TT4BJ798)) | WPF · .NET 10 · C# |
+| **Chartis** | Logistics and route-planning workspace | Python · JavaScript |
+| **Graphe** | Proprietary type family and release pipeline | Python · fontTools · UFO |
+| **Kare** | GPU benchmark analysis for Windows ([Microsoft Store](https://apps.microsoft.com/detail/9P49TT4BJ798)) | WPF · .NET 10 · C# |
 
 ## Principles
 
